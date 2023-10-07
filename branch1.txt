@@ -1,1 +1,5 @@
 This is a branch 1 file.
+
+This line is for to be stashed.
+
+This is another stash line.
